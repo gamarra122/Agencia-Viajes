@@ -23,7 +23,7 @@ This is a fully responsive travel agency landing page built with **HTML**, **CSS
 
 
 ### 💼 Contact me 
-- linkedin. [Linkedin](https://www.linkedin.com/in/germán-gamarra)
+- linkedin. [LinkedIn](https://www.linkedin.com/in/germán-gamarra-83211a32b/)
 - Email: 12germangamarra@gmail.com
 
 <!-- ![preview img](image/card-hover-effect-mockup.png) -->
